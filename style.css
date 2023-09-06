@@ -1,0 +1,242 @@
+.desktop-2,
+.desktop-2 * {
+  box-sizing: border-box;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.desktop-2 {
+  background: #ffd88e;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  /*box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);*/
+  overflow: hidden;
+}
+.background {
+  background: #ffe8be;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 850px;
+  height: 550px;
+  position: absolute;
+  left: 169px;
+  top: 152px;
+  box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-4 {
+  background: #ffd890;
+  border-radius: 16px 0px 0px 16px;
+  width: 325px;
+  height: 550px;
+  position: absolute;
+  left: 169px;
+  top: 152px;
+}
+.bg {
+  background: #fdcb6e;
+  border-radius: 999px;
+  position: absolute;
+  right: 997px;
+  left: 222px;
+  bottom: 351px;
+  top: 598px;
+}
+.bg2 {
+  background: #fdcb6e;
+  border-radius: 999px;
+  position: absolute;
+  right: 429px;
+  left: 753px;
+  bottom: 225px;
+  top: 731px;
+}
+.bem-vindo-de-volta {
+  color: #534325;
+  text-align: left;
+  font: 700 36px/48px "Poppins", sans-serif;
+  position: absolute;
+  left: 236px;
+  top: 362px;
+  width: 243px;
+  height: 100px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.crie-sua-conta {
+  color: #fdcb6e;
+  text-align: center;
+  font: 700 36px/48px "Poppins", sans-serif;
+  position: absolute;
+  left: 620px;
+  top: 273px;
+  width: 271px;
+  height: 54px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.acesse-a-sua-conta {
+  color: #000000;
+  text-align: left;
+  font: 500 20px/48px "Poppins", sans-serif;
+  position: absolute;
+  left: 236px;
+  top: 485px;
+  width: 191px;
+  height: 44px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.agora-mesmo {
+  color: #534325;
+  text-align: left;
+  font: 500 20px/48px "Poppins", sans-serif;
+  position: absolute;
+  left: 237px;
+  top: 462px;
+  width: 191px;
+  height: 94px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.group-2 {
+  width: 101px;
+  height: 44px;
+  position: absolute;
+  left: 282px;
+  top: 614px;
+}
+.entrar {
+  color: #534325;
+  text-align: left;
+  font: 700 24px/48px "Poppins", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 101px;
+  height: 44px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.group-3 {
+  width: 152px;
+  height: 44px;
+  position: absolute;
+  left: 806px;
+  top: 743px;
+}
+.cadastrar {
+  color: #534325;
+  text-align: left;
+  font: 700 24px/48px "Poppins", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 152px;
+  height: 44px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.rectangle-5 {
+  background: #ffe8be;
+  border-radius: 16px;
+  width: 30vw;
+  height: 58px;
+  position: absolute;
+  left: 561px;
+  top: 403px;
+}
+.rectangle-6 {
+  background: #ffe8be;
+  border-radius: 16px;
+  width: 30vw;
+  height: 58px;
+  position: absolute;
+  left: 561px;
+  top: 500px;
+}
+.rectangle-7 {
+  background: #ffe8be;
+  border-radius: 16px;
+  width: 30vw;
+  height: 58px;
+  position: absolute;
+  left: 561px;
+  top: 597px;
+}
+.nome {
+  color: #ad8c4d;
+  text-align: left;
+  font: 500 20px/48px "Poppins", sans-serif;
+  position: absolute;
+  left: 642px;
+  top: 408px;
+  width: 80px;
+  height: 48px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.e-mail {
+  color: #ad8c4d;
+  text-align: left;
+  font: 500 20px/48px "Poppins", sans-serif;
+  position: absolute;
+  left: 642px;
+  top: 505px;
+  width: 80px;
+  height: 48px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.senha {
+  color: #ad8c4d;
+  text-align: left;
+  font: 500 20px/48px "Poppins", sans-serif;
+  position: absolute;
+  left: 642px;
+  top: 602px;
+  width: 80px;
+  height: 48px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+._1-removebg-preview-1 {
+  width: 41px;
+  height: 60px;
+  position: absolute;
+  left: 584px;
+  top: 402px;
+}
+._2-removebg-preview-1 {
+  width: 44px;
+  height: 48px;
+  position: absolute;
+  left: 583px;
+  top: 505px;
+}
+._3-removebg-preview-1 {
+  width: 55px;
+  height: 31px;
+  position: absolute;
+  left: 577px;
+  top: 610px;
+}
